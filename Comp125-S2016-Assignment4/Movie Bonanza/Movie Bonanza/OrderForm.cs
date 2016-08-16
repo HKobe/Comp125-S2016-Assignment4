@@ -108,7 +108,7 @@ namespace Movie_Bonanza
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            AboutBox1 aSummaryForm = new AboutBox1();
+            AboutBox aSummaryForm = new AboutBox();
             // show the new form obejct
             aSummaryForm.ShowDialog();
         }

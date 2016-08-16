@@ -34,3 +34,16 @@ C:\Users\Hassa\Desktop\MovieBonanza-master\Movie Bonanza\Movie Bonanza\obj\Debug
 C:\Users\Hassa\Desktop\MovieBonanza-master\Movie Bonanza\Movie Bonanza\obj\Debug\Movie Bonanza.csproj.GenerateResource.Cache
 C:\Users\Hassa\Desktop\MovieBonanza-master\Movie Bonanza\Movie Bonanza\bin\Debug\Movie Bonanza.exe
 C:\Users\Hassa\Desktop\MovieBonanza-master\Movie Bonanza\Movie Bonanza\bin\Debug\Movie Bonanza.pdb
+C:\Users\Hassa\Desktop\Comp125-S2016-Assignment4\Movie Bonanza\Movie Bonanza\bin\Debug\Movie Bonanza.exe.config
+C:\Users\Hassa\Desktop\Comp125-S2016-Assignment4\Movie Bonanza\Movie Bonanza\obj\Debug\Movie Bonanza.exe
+C:\Users\Hassa\Desktop\Comp125-S2016-Assignment4\Movie Bonanza\Movie Bonanza\obj\Debug\Movie Bonanza.pdb
+C:\Users\Hassa\Desktop\Comp125-S2016-Assignment4\Movie Bonanza\Movie Bonanza\bin\Debug\Movie Bonanza.exe
+C:\Users\Hassa\Desktop\Comp125-S2016-Assignment4\Movie Bonanza\Movie Bonanza\bin\Debug\Movie Bonanza.pdb
+C:\Users\Hassa\Desktop\Comp125-S2016-Assignment4\Movie Bonanza\Movie Bonanza\obj\Debug\Movie Bonanza.csprojResolveAssemblyReference.cache
+C:\Users\Hassa\Desktop\Comp125-S2016-Assignment4\Movie Bonanza\Movie Bonanza\obj\Debug\Movie_Bonanza.AboutBox.resources
+C:\Users\Hassa\Desktop\Comp125-S2016-Assignment4\Movie Bonanza\Movie Bonanza\obj\Debug\Movie_Bonanza.OrderForm.resources
+C:\Users\Hassa\Desktop\Comp125-S2016-Assignment4\Movie Bonanza\Movie Bonanza\obj\Debug\Movie_Bonanza.Properties.Resources.resources
+C:\Users\Hassa\Desktop\Comp125-S2016-Assignment4\Movie Bonanza\Movie Bonanza\obj\Debug\Movie_Bonanza.SelectionForm.resources
+C:\Users\Hassa\Desktop\Comp125-S2016-Assignment4\Movie Bonanza\Movie Bonanza\obj\Debug\Movie_Bonanza.SplashScreenForm.resources
+C:\Users\Hassa\Desktop\Comp125-S2016-Assignment4\Movie Bonanza\Movie Bonanza\obj\Debug\Movie_Bonanza.StreamForm.resources
+C:\Users\Hassa\Desktop\Comp125-S2016-Assignment4\Movie Bonanza\Movie Bonanza\obj\Debug\Movie Bonanza.csproj.GenerateResource.Cache
